@@ -1,0 +1,23 @@
+
+Q1) What new skills have you learned?
+  
+Ans: I know a little bit about HTML5 & CSS3 but there were some new facts about websites, HTML & CSS , how they were developed and some other useful resources that 
+     I didn't knew about. So far I have learned a lot of new things. 
+ 
+Q2) What has been easy?
+  
+Ans: It was quite easy to grasp new topics and concepts.
+ 
+Q3) What has been difficult?
+  
+Ans: Nothing so far.
+
+Q4) How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Ans: The mockup helped me a lot. I was able to transfer it into my code. There were a lot of things I missed while I was applying tags. Minute things that I missed 
+     during coding are:
+a) I forgot to include this "***" under bold and emg tags.
+b) I forgot to close figure tag with right angled bracket.
+c) As <strike> is deprecated, I used css.
+d) While apply <a> tags , text got erased, automatically.
